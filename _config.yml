@@ -1,7 +1,0 @@
-url: https://kasuyan.github.io/blog/
-root: blog
-
-deploy:
-  type: git
-  repo: https://kasuyan.github.io/blog
-  branch: gh-pages
